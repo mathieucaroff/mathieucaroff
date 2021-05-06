@@ -6,20 +6,24 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 (Simples, New, Cognitive)
 
+- Center
 - Patience
 - Positivity
 - Simplicity
+- Clarity
 - Scale
 - Softness
 
-- Corps
-- Minimalism, Rapport
+- Body, Life
+- Minimalism, Factor
 - Humanism, Universalism
 
 - Relation between oneself and one's needs
 
 - Attribution
 - Linearity and Logic
+- Correlation and causality
+- Practicality
 
 - Transparency
 - Quality
@@ -37,13 +41,6 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - (G) Growth
 - (T) Contribution
 
-1. Certainty: assurance you can avoid pain and gain pleasure
-2. Uncertainty/Variety: the need for the unknown, change, new stimuli
-3. Significance: feeling unique, important, special or needed
-4. Connection/Love: a strong feeling of closeness or union with someone or something
-5. Growth: an expansion of capacity, capability or understanding
-6. Contribution: a sense of service and focus on helping, giving to and supporting others
-
 ## Peau, interface au monde
 
 - Séparation et passage
@@ -54,3 +51,16 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Nez
 - Bouches entrante/sortante air/liquide/solide
 - Chant
+
+## Definition
+
+1. Certainty: assurance you can avoid pain and gain pleasure
+2. Uncertainty/Variety: the need for the unknown, change, new stimuli
+3. Significance: feeling unique, important, special or needed
+4. Connection/Love: a strong feeling of closeness or union with someone or something
+5. Growth: an expansion of capacity, capability or understanding
+6. Contribution: a sense of service and focus on helping, giving to and supporting others
+
+## Attribution
+
+[gg, 6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)

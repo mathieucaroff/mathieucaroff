@@ -6,20 +6,24 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 (Simples, Nouvelles, Cognitif)
 
+- Centre
 - Patience
 - Positivité
 - Simplicité
+- Clarté
 - Grandeur
 - Douceur
 
-- Corps
-- Minimalisme, Rapport
+- Corps, Vie
+- Minimalisme, Facteur
 - Humanisme, Universalisme
 
 - Relation entre soi-même et ses besoins
 
 - Attribution
-- Linearity and logic
+- Linearité et logique
+- Correlation et causalité
+- Praticité
 
 - Transparence
 - Qualité
@@ -47,3 +51,20 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Nez
 - Bouches entrante/sortante air/liquide/solide
 - Chant
+
+## Définition
+
+1. La certitude : l'assurance d'éviter la douleur et d'obtenir le plaisir
+2. Incertitude/Variété : besoin d'inconnu, de changement, de nouveaux stimuli
+3. Signification : se sentir unique, important, spécial ou nécessaire
+4. Connexion/Amour : un fort sentiment de proximité ou d'union avec quelqu'un ou quelque chose
+5. Croissance : une expansion de la capacité, de l'aptitude ou de la compréhension
+6. Contribution : un sens du service et une volonté d'aider, de donner et de soutenir les autres
+
+## Attribution
+
+[gg, 6 besoins fondamentaux humains, lepetitjournal.com, 6 fundamental human needs, Team Tony, tonyrobbins.com, deepl](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
+
+## Reférence
+
+[gg, 6 besoins fondamentaux humains, lepetitjournal.com](https://lepetitjournal.com/sydney/sante/les-6-besoins-humains-comment-les-identifier-237219)

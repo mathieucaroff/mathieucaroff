@@ -13,7 +13,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Douceur
 
 - Corps
-- Minimalisme
+- Minimalisme, Rapport
 - Humanisme, Universalisme
 
 - Relation entre soi-même et ses besoins

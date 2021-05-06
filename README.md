@@ -13,7 +13,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Softness
 
 - Corps
-- Minimalisme
+- Minimalism, Rapport
 - Humanism, Universalism
 
 - Relation between oneself and one's needs

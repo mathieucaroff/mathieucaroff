@@ -14,16 +14,16 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Scale
 - Softness
 
-- Body, Life
-- Minimalism, Factor
-- Humanism, Universalism
++ Body, Life
++ Minimalism, Factor
++ Humanism, Universalism
 
 - Relation between oneself and one's needs
 
-- Attribution
-- Linearity and Logic
-- Correlation and causality
-- Practicality
++ Attribution
++ Linearity and Logic
++ Correlation and causality
++ Practicality
 
 - Transparency
 - Quality
@@ -38,12 +38,12 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - (S) Significance / Importance
 - (K) Connection / Love
 
-- (G) Growth
-- (T) Contribution
++ (G) Growth
++ (T) Contribution
 
 ## Skin, interface to the world
 
-- Separation et passage
++ Separation et passage
 
 - Skin
 - Ears
@@ -63,4 +63,4 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 ## Attribution
 
-[gg, 6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
+- [gg, 6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)

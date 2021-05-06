@@ -14,16 +14,16 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Grandeur
 - Douceur
 
-- Corps, Vie
-- Minimalisme, Facteur
-- Humanisme, Universalisme
++ Corps, Vie
++ Minimalisme, Facteur
++ Humanisme, Universalisme
 
 - Relation entre soi-même et ses besoins
 
-- Attribution
-- Linearité et logique
-- Correlation et causalité
-- Praticité
++ Attribution
++ Linearité et logique
++ Correlation et causalité
++ Praticité
 
 - Transparence
 - Qualité
@@ -33,17 +33,17 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 (Simple, Grand)
 
-- (R) Certitude / Corps
-- (V) Incertitude / Variété
-- (S) Sens / Importance
-- (K) Connexion / Amour
++ (R) Certitude / Corps
++ (V) Incertitude / Variété
++ (S) Sens / Importance
++ (K) Connexion / Amour
 
 - (G) Grandir / Évoluer
 - (T) Contribuer
 
 ## Peau, interface au monde
 
-- Séparation et passage
++ Séparation et passage
 
 - Peau
 - Oreilles

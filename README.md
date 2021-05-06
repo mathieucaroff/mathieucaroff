@@ -54,12 +54,14 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 ## Definition
 
-1. Certainty: assurance you can avoid pain and gain pleasure
-2. Uncertainty/Variety: the need for the unknown, change, new stimuli
-3. Significance: feeling unique, important, special or needed
-4. Connection/Love: a strong feeling of closeness or union with someone or something
-5. Growth: an expansion of capacity, capability or understanding
-6. Contribution: a sense of service and focus on helping, giving to and supporting others
++ Attribution : Relate people to concrete events
+
+- Certainty: assurance you can avoid pain and gain pleasure
+- Uncertainty/Variety: the need for the unknown, change, new stimuli
+- Significance: feeling unique, important, special or needed
+- Connection/Love: a strong feeling of closeness or union with someone or something
+- Growth: an expansion of capacity, capability or understanding
+- Contribution: a sense of service and focus on helping, giving to and supporting others
 
 ## Attribution
 

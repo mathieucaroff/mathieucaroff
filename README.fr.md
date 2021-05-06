@@ -54,12 +54,14 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 ## Définition
 
-1. La certitude : l'assurance d'éviter la douleur et d'obtenir le plaisir
-2. Incertitude/Variété : besoin d'inconnu, de changement, de nouveaux stimuli
-3. Signification : se sentir unique, important, spécial ou nécessaire
-4. Connexion/Amour : un fort sentiment de proximité ou d'union avec quelqu'un ou quelque chose
-5. Croissance : une expansion de la capacité, de l'aptitude ou de la compréhension
-6. Contribution : un sens du service et une volonté d'aider, de donner et de soutenir les autres
++ Attribution : Relier des gens à des évènements concrets
+
+- Certitude : l'assurance d'éviter la douleur et d'obtenir le plaisir
+- Incertitude/Variété : besoin d'inconnu, de changement, de nouveaux stimuli
+- Signification : se sentir unique, important, spécial ou nécessaire
+- Connexion/Amour : un fort sentiment de proximité ou d'union avec quelqu'un ou quelque chose
+- Croissance : une expansion de la capacité, de l'aptitude ou de la compréhension
+- Contribution : un sens du service et une volonté d'aider, de donner et de soutenir les autres
 
 ## Attribution
 

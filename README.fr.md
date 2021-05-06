@@ -50,7 +50,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Yeux
 - Nez
 - Bouches entrante/sortante air/liquide/solide
-- Chant
+- Chant et danse
 
 ## Définition
 

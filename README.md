@@ -41,16 +41,16 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - (G) Growth
 - (T) Contribution
 
-## Peau, interface au monde
+## Skin, interface to the world
 
-- Séparation et passage
+- Separation et passage
 
-- Peau
-- Oreilles
-- Yeux
-- Nez
-- Bouches entrante/sortante air/liquide/solide
-- Chant
+- Skin
+- Ears
+- Eyes
+- Nose
+- Mouth entring/exiting air/liquid/solid
+- Singing and dancing
 
 ## Definition
 

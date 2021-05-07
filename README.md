@@ -10,11 +10,12 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Patience
 - Positivity
 - Simplicity
+- Body, Life
 - Clarity
 - Scale
+- Friendship
 - Softness
 
-+ Body, Life
 + Minimalism, Factor
 + Universalism
 

@@ -9,12 +9,13 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Humanisme
 - Patience
 - Positivité
+- Corps, Vie
 - Simplicité
 - Clarté
 - Grandeur
+- Amis
 - Douceur
 
-+ Corps, Vie
 + Minimalisme, Facteur
 + Universalisme
 

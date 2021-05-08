@@ -6,6 +6,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 (Simples, New, Cognitive)
 
+- Tranquility, Respect
 - Humanism
 - Patience
 - Center

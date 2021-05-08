@@ -8,8 +8,9 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 - Humanisme
 - Patience
+- Centre
 - Positivité
-- Corps, Vie
+- Corps, Vie, Forme, Santé, Art
 - Simplicité
 - Clarté
 - Grandeur
@@ -44,7 +45,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 (Simple, Grand)
 
 + (R) Certitude / Corps
-+ (V) Incertitude / Variété
++ (V) Nouveauté / Variété
 + (S) Sens / Importance
 + (K) Connexion / Amour
 

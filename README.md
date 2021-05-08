@@ -8,9 +8,10 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 - Humanism
 - Patience
+- Center
 - Positivity
+- Body, Life, Fitness, Health, Art
 - Simplicity
-- Body, Life
 - Clarity
 - Scale
 - Friendship
@@ -44,7 +45,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 (Simple, Great)
 
 - (R) Certainty / Body
-- (V) Uncertainty / Variety
+- (V) New / Variety
 - (S) Significance / Importance
 - (K) Connection / Love
 
@@ -89,18 +90,19 @@ A human is a set of voices surrounded by a skin.
 
 ### Story of me
 
-I am Mathieu CAROFF. I grow up with my family, school and some friends. The first meeting and the first discovery of me happens with person A. I mature in contact with science, English, German, intense mathematics, internet, search of quality of knowledge, Spanish and computer programming, open source. I return to person A. I finish my studies. I meet the book of Rosenberg. I meet the Toki Pona language. I meet person B, more gentle, a sophrologist. I meet the monkey person. I decide to know my relationship to the world. I learn the languages.
+I am Mathieu CAROFF. I grow up with my family, school and some friends. I encounter specialists. Specialist A makes me read a book. I mature in contact with science, English, German, intense mathematics, internet, search of quality of knowledge, Spanish and computer programming, open source. I return to person A. I finish my studies. I meet the book of Rosenberg. I meet the Toki Pona language. I meet person B, more gentle, a sophrologist. I meet the monkey person. I decide to know my relationship to the world. I learn the languages.
 
-Les élements que je souhaite partager avec le monde dans mon histoire sont:
+The elements that I wish to share with the world in my story are:
 
-- famille
-- amis
+- family
+- friends
 - science
-- mathématique, theorie axiomatique, informatique, **langages**
-- recherche de qualité
-- informatique, theorie des graphes, open-source, transparence, attribution
-- **livre de Rosenberg**
-- sophrologie, corps
+- book of Robbin Hobb
+- mathematic, axiomatique theory, programming/IT, **langages**
+- quality research
+- programming, graph theory, open-source, transparency, attribution
+- **Rosenberg's **
+- sophrology, body
 - **langage de la simplicité: Toki Pona**
 - relation, connexion
 - compréhension de ma relation au monde, de ma peau

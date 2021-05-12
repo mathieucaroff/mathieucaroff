@@ -32,7 +32,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Quality
 - Definition
 
-## Element de model
+## Element of model
 
 - Element
 - World
@@ -100,9 +100,9 @@ The elements that I wish to share with the world in my story are:
 - programming, graph theory, open-source, transparency, attribution
 - **Rosenberg's **
 - sophrology, body
-- **langage de la simplicité: Toki Pona**
+- **language of simplicity: Toki Pona**
 - relation, connexion
-- compréhension de ma relation au monde, de ma peau
+- understanding of my relation to the world, of my skin
 
 ## Attribution
 

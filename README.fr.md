@@ -53,6 +53,20 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - (G) Grandir / Évoluer
 - (T) Contribuer
 
+## 9 piliers de vie
+
+(de Cécile Neuville)
+
+- **Vie amoureuse / vie sentimentale** : L'ensemble des tâches liées à la vie d'un couple ou d'une personne seule, et qui concernent la communication, les émotions, la sexualité, les moments partagés, les projets.
+- **Vie familiale** : Les tâches liées à la vie de famille, les échanges, le partage, les sorties, les activités, les valeurs communes, voire même la belle-famille et la famille élargie.
+- **Vie sociale** : Les activités liées aux relations avec les autres, les amis, les connaissances, les nouvelles rencontres, mais surtout la fréquence, la quantité, la qualité, la sincérité et l'authenticité de ces relations.
+- **Vie professionnelle** : Les activités liées au métier, à la profession, à la carrière, au salaire, aux compétences, à l'organisation, à la planification, mais aussi aux relations professionnelles, à la reconnaissance, aux changements de carrière et à l'ambition.
+- **Les plaisirs personnels** : Les événements liés aux loisirs, aux activités personnelles, à la détente, aux passions. Ce sont toutes les tâches que l'on fait pour soi pour un simple plaisir personnel.
+- **Hygiène de vie** : Les actions effectuées pour l'alimentation, les repas, le sommeil, la santé ou toute autre activité liée aux besoins du corps.
+- **Gestion quotidienne** : Les tâches administratives quotidiennes telles que la gestion du budget, des finances, de la maison, du ménage, des courses, etc.
+- **Développement personnel** : Les activités visant à renforcer la confiance en soi, l'estime de soi, et tout ce qui concerne le développement personnel
+- **Actions pour le monde** : Les gestes écologiques et d'engagement pour le monde comme le bénévolat, mais aussi les gestes de don, de partage, d'altruisme et de générosité.
+
 ## Peau, interface au monde
 
 + Séparation et passage
@@ -109,6 +123,7 @@ Les élements que je souhaite partager avec le monde dans mon histoire sont:
 - personne B
 - personne singe
 - [gg, 6 besoins fondamentaux humains, lepetitjournal.com, 6 fundamental human needs, Team Tony, tonyrobbins.com, deepl](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
+- 9 piliers de vie, Cécile Neuville [fr](https://lelialouisedouard.medium.com/how-to-balance-the-9-pillars-of-life-c29448a49a54) [lelialouisedouard (en)](https://lelialouisedouard.medium.com/how-to-balance-the-9-pillars-of-life-c29448a49a54)
 
 ## Reférence
 

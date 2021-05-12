@@ -53,6 +53,20 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 + (G) Growth
 + (T) Contribution
 
+## 9 pillars of life
+
+(Cécile Neuville)
+
+- **Love / sentimental life**: it is the set of tasks related to the life of a couple or a single person, and which relate to communication, emotions, sexuality, shared times, projects.
+- **Family life**: These are the tasks related to family life, exchanges, sharing, going out, activities, common values, even even the in-laws and the larger family.
+- **Social life**: these are all activities related to relationships with others, friends, acquaintances, new meetings, but above all the frequency, quantity, quality, sincerity and authenticity of these relationships
+- **Professional life**: these are activities linked to the trade, profession, career, salary, skills, organization, planning, but also professional relations, recognition, career changes and to ambition.
+- **Personal pleasures**: these are events linked to leisure, personal activities, relaxation, passions. These are all the tasks that one does for oneself for simple personal pleasure.
+- **Healthy living**: all actions carried out for food, meals, sleep, health or any other activity related to the needs of the body
+- **Daily management**: these are the daily administrative tasks such as budget, finance, house, household, shopping, etc. management.
+- **Personal development**: these are activities to build self-confidence, self-esteem, and everything related to personal development
+- **Actions for the world**: all ecological gestures and commitment to the world such as volunteering, but also gestures of donation, sharing, altruism and generosity.
+
 ## Skin, interface to the world
 
 + Separation et passage
@@ -109,6 +123,7 @@ The elements that I wish to share with the world in my story are:
 - person A
 - person B
 - person monkey
-- [gg, 6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
-- mother, ANPEIP, person A, NVC, Marshall Rosenberg, "Non violent communication: a language of compassion"
-- [gg, constructed languages, patience, yt, jan Misali, Conlang Critics, Toki Pona](https://www.youtube.com/watch?v=eLn6LC1RpAo)
+- Marshall Rosenberg, "Non violent communication: a language of compassion"
+- 9 pillars of life, Cécile Neuville [fr](https://lelialouisedouard.medium.com/how-to-balance-the-9-pillars-of-life-c29448a49a54) [lelialouisedouard (en)](https://lelialouisedouard.medium.com/how-to-balance-the-9-pillars-of-life-c29448a49a54)
+- [6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
+- [Toki Pona, jan Sonja](https://www.youtube.com/watch?v=eLn6LC1RpAo)

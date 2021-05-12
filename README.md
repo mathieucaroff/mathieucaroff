@@ -72,10 +72,6 @@ Letting go is changing my vision of the world to see what is important to me fro
 Attention -> Body -> Need -> Vision of the world and thoughts
 ```
 
-## Human
-
-A human is a set of voices surrounded by a skin.
-
 ## Definition
 
 + Attribution : Relate people to things

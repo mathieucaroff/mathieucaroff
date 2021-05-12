@@ -72,10 +72,6 @@ Accepter de changer c'est changer ma vision du monde et regarder les choses qui 
 Attention -> Corps -> Vision du monde et pensées
 ```
 
-## Humain
-
-Un humain est un ensemble de voix entouré d'une peau.
-
 ## Définition
 
 + Attribution : Relier des gens à des choses

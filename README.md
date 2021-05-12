@@ -86,6 +86,15 @@ Letting go is changing my vision of the world to see what is important to me fro
 Attention -> Body -> Need -> Vision of the world and thoughts
 ```
 
+## Toki Pona
+
+- Print [the dictionnary](http://tokipona.net/tp/janpije/dictionary.php)
+- Getting Started with [jan Misali's 12 day of Toki Pona playlist](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
+- Reach the community [on Discord](https://www.google.com/search?q=toki%20pona%20discord) [direct link as of 2021](https://discord.gg/Byqn5z9)
+- Learn the [toki pony hieroglyphs language](http://tokipona.net/tp/janpije/hieroglyphs.php)
+- Learn the [toki pona sign language](http://tokipona.net/tp/janpije/signlanguage.php)
+- Find the [list of language names](http://tokipona.net/tp/janpije/languagenames.php) and the [list of name of places](http://tokipona.net/tp/janpije/placenames.php)
+
 ## Definition
 
 + Attribution : Relate people to things

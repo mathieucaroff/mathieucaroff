@@ -53,6 +53,25 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - (G) Grandir / Évoluer
 - (T) Contribuer
 
+# Besoins du corps
+
+- Respirer quand j'ai besoin d'air
+  - Bailler
+  - Rire
+- Boire de l'eau quand j'ai soif
+- Respecter le rythme de mon corps
+  - Manger suffisement pour satisfaire ma faim
+  - Dormir suffisement pour respecter ma tête, mes muscles et ma peau
+- Allumer la lumière quand j'ai besoin de voir
+- Activer mon corps
+  - Articulations
+    - M'échauffer au reveil et avant de bouger
+  - Muscles
+    - M'étirer quand j'en sens l'envie
+- Toucher mon corps, ma peau lorsque j'ai besoin de contacte
+- Uriner quand j'ai besoin de me place dans ma vessie
+- Faire caca quand j'ai besoin de me place dans mon système digestif
+
 ## 9 piliers de vie
 
 (de Cécile Neuville)

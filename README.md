@@ -53,6 +53,25 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 + (G) Growth
 + (T) Contribution
 
+## Bodily needs
+
+- Breathe when I need air
+  - Yawn
+  - Laughing
+- Drinking water when I am thirsty
+- Respect my body's rhythm
+  - Eat enough to satisfy my hunger
+  - Sleep enough to respect my head, my muscles and my skin
+- Turn on the light when I need to see
+- Activate my body
+  - Joints
+    - Warm up when I wake up and before I move
+  - Muscles
+    - Stretch when I feel like it
+- Touching my body, my skin when I need contact
+- Urinating when I need to place myself in my bladder
+- Poop when I need to get into my digestive system
+
 ## 9 pillars of life
 
 (Cécile Neuville)

@@ -121,7 +121,7 @@ The elements that I wish to share with the world in my story are:
 - mathematic, axiomatique theory, programming/IT, **langages**
 - quality research
 - programming, graph theory, open-source, transparency, attribution
-- **Rosenberg's **
+- **Rosenberg's book**
 - sophrology, body
 - **language of simplicity: Toki Pona**
 - relation, connexion
@@ -129,10 +129,10 @@ The elements that I wish to share with the world in my story are:
 
 ## Attribution
 
+- [Toki Pona, jan Sonja](http://tokipona.org/)
+- 9 pillars of life, [Cécile Neuville](http://psychologue-a-montpellier.blogspot.com/)
+- Marshall Rosenberg, "Non violent communication: a language of compassion"
+- [6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
 - person A
 - person B
 - person monkey
-- Marshall Rosenberg, "Non violent communication: a language of compassion"
-- 9 pillars of life, Cécile Neuville [fr](https://lelialouisedouard.medium.com/how-to-balance-the-9-pillars-of-life-c29448a49a54) [lelialouisedouard (en)](https://lelialouisedouard.medium.com/how-to-balance-the-9-pillars-of-life-c29448a49a54)
-- [6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
-- [Toki Pona, jan Sonja](https://www.youtube.com/watch?v=eLn6LC1RpAo)

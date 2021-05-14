@@ -18,15 +18,15 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Amis
 - Douceur
 
-+ Minimalisme, Facteur
-+ Universalisme
+* Minimalisme, Facteur
+* Universalisme
 
 - Relation entre soi-même et ses besoins
 
-+ Attribution
-+ Linearité et logique
-+ Correlation et causalité
-+ Praticité
+* Attribution
+* Linearité et logique
+* Correlation et causalité
+* Praticité
 
 - Transparence
 - Qualité
@@ -45,10 +45,10 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 (Simple, Grand)
 
-+ (R) Certitude / Corps
-+ (V) Nouveauté / Variété
-+ (S) Sens / Importance
-+ (K) Connexion / Amour
+* (R) Certitude / Corps
+* (V) Nouveauté / Variété
+* (S) Sens / Importance
+* (K) Connexion / Amour
 
 - (G) Grandir / Évoluer
 - (T) Contribuer
@@ -102,7 +102,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 ## Peau, interface au monde
 
-+ Séparation et passage
+* Séparation et passage
 
 - Peau
 - Oreilles
@@ -130,7 +130,7 @@ Attention -> Corps -> Vision du monde et pensées
 
 ## Définition
 
-+ Attribution : Relier des gens à des choses
+* Attribution : Relier des gens à des choses
 
 - Certitude : l'assurance d'éviter la douleur et d'obtenir le plaisir
 - Incertitude/Variété : besoin d'inconnu, de changement, de nouveaux stimuli

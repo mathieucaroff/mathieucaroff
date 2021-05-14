@@ -18,15 +18,15 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Friendship
 - Softness
 
-+ Minimalism, Factor
-+ Universalism
+* Minimalism, Factor
+* Universalism
 
 - Relation between oneself and one's needs
 
-+ Attribution
-+ Linearity and Logic
-+ Correlation and causality
-+ Practicality
+* Attribution
+* Linearity and Logic
+* Correlation and causality
+* Practicality
 
 - Transparency
 - Quality
@@ -50,8 +50,8 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - (S) Significance / Importance
 - (K) Connection / Love
 
-+ (G) Growth
-+ (T) Contribution
+* (G) Growth
+* (T) Contribution
 
 ## Bodily needs
 
@@ -88,7 +88,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 ## Skin, interface to the world
 
-+ Separation et passage
+* Separation et passage
 
 - Skin
 - Ears
@@ -116,7 +116,7 @@ Attention -> Body -> Need -> Vision of the world and thoughts
 
 ## Definition
 
-+ Attribution : Relate people to things
+* Attribution : Relate people to things
 
 - Certainty: assurance you can avoid pain and gain pleasure
 - Uncertainty/Variety: the need for the unknown, change, new stimuli

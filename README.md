@@ -4,18 +4,17 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 ## Elements, guides
 
-(Simples, New, Cognitive)
+(Simple, Cognitive)
 
-- Tranquility, Respect
 - Humanism
-- Patience
-- Center
 - Positivity
-- Body, Life, Fitness, Health, Art
 - Simplicity
+- Center
+- Quality
+- Patience
+- Body, Life, Fitness, Health, Art
 - Clarity
-- Scale
-- Friendship
+- Scale, Intensity, Strength
 - Softness
 
 * Minimalism, Factor
@@ -29,7 +28,6 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 * Practicality
 
 - Transparency
-- Quality
 - Definition
 
 ## Element of model
@@ -123,8 +121,10 @@ Attention -> Body -> Need -> Vision of the world and thoughts
 
 ## Toki Pona
 
+(good simple language of 120 words)
+
 - Print [the dictionnary](http://tokipona.net/tp/janpije/dictionary.php)
-- Getting Started with [jan Misali's 12 day of Toki Pona playlist](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
+- Get started with [jan Misali's 12 day of Toki Pona playlist](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
 - Reach the community [on Discord](https://www.google.com/search?q=toki%20pona%20discord) [direct link as of 2021](https://discord.gg/Byqn5z9)
 - Learn the [toki pony hieroglyphs language](http://tokipona.net/tp/janpije/hieroglyphs.php)
 - Learn the [toki pona sign language](http://tokipona.net/tp/janpije/signlanguage.php)
@@ -152,7 +152,6 @@ The elements that I wish to share with the world in my story are:
 - family
 - friends
 - science
-- book of Robbin Hobb
 - mathematic, axiomatique theory, programming/IT, **langages**
 - quality research
 - programming, graph theory, open-source, transparency, attribution

@@ -4,18 +4,17 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 ## Elements, guides
 
-(Simples, Nouvelles, Cognitif)
+(Simple, Cognitif)
 
-- Tranquilité, Respect
 - Humanisme
-- Patience
-- Centre
 - Positivité
-- Corps, Vie, Forme, Santé, Art
 - Simplicité
+- Qualité
+- Centre
+- Patience
+- Corps, Vie, Forme, Santé, Art
 - Clarté
-- Grandeur
-- Amis
+- Grandeur, Intensité, Force
 - Douceur
 
 * Minimalisme, Facteur
@@ -24,12 +23,11 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Relation entre soi-même et ses besoins
 
 * Attribution
-* Linearité et logique
-* Correlation et causalité
+* Linearité et Logique
+* Correlation et Causalité
 * Praticité
 
 - Transparence
-- Qualité
 - Définition
 
 ## Elément de model
@@ -74,7 +72,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 ## 9 piliers de vie
 
-(de Cécile Neuville)
+(Cécile Neuville)
 
 - **Vie amoureuse / vie sentimentale** : L'ensemble des tâches liées à la vie d'un couple ou d'une personne seule, et qui concernent la communication, les émotions, la sexualité, les moments partagés, les projets.
 - **Vie familiale** : Les tâches liées à la vie de famille, les échanges, le partage, les sorties, les activités, les valeurs communes, voire même la belle-famille et la famille élargie.
@@ -123,6 +121,8 @@ Attention -> Corps -> Vision du monde et pensées
 
 ## Toki Pona
 
+(bon langage simple, en 120 mots)
+
 - Imprimer [le dictionaire](http://tokipona.net/tp/janpije/dictionary.php)
 - Se lancer avec [la playlist des 12 jours de Toki Pona de jan Misali](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
 - Rejoindre la communauté [sur Discord](https://www.google.com/search?q=toki%20pona%20discord) [lien directe en 2021](https://discord.gg/Byqn5z9)
@@ -145,7 +145,7 @@ Attention -> Corps -> Vision du monde et pensées
 
 ### Histoire de moi
 
-Je suis Mathieu CAROFF. Je grandi avec ma famille, l'école et quelques amis. Ma mère m'aime beaucoups. J'ai des difficultés et ma mère m'aide. La première rencontre et la première découverte de moi surviennent avec la personne A. Je mature au contacte de la science, de l'anglais, de l'allemend, de la mathématique intense, d'internet, de la recherche de la qualité de la connaissance, de l'espagnole et de la programmation informatique, de la culture open source. Je revient vers la personne A. Je termine mes études. Je recontre le livre de Rosenberg. Je rencontre le langage Toki Pona. Je rencontre la personne B, plus douce, une sophrologue. Je rencontre la personne singe. Je décide de connaitre ma relation au monde. J'apprends les langages.
+Je suis Mathieu CAROFF. Je grandi avec ma famille, l'école et quelques amis. Ma mère m'aime beaucoups. J'ai des difficultés et mes parents m'aide. La première rencontre et la première découverte de moi surviennent avec la personne A. Je mature au contacte de la science, de l'anglais, de l'allemend, de la mathématique intense, d'internet, de la recherche de la qualité de la connaissance, de l'espagnole et de la programmation informatique, de la culture open source. Je reviens vers la personne A. Je termine mes études. Je recontre le livre de Rosenberg. Je rencontre le langage Toki Pona. Je rencontre la personne B, plus douce, une sophrologue. Je rencontre la personne singe. Je décide de connaitre ma relation au monde. J'apprends les langages.
 
 Les élements que je souhaite partager avec le monde dans mon histoire sont:
 

@@ -86,6 +86,22 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - **Personal development**: these are activities to build self-confidence, self-esteem, and everything related to personal development
 - **Actions for the world**: all ecological gestures and commitment to the world such as volunteering, but also gestures of donation, sharing, altruism and generosity.
 
+## Cécile Neuville's toolbox
+
+> Here are the different tools that I have trained myself to use in order to offer you the most personalized and effective support possible, depending on your problem, your objective, the urgency of the situation, your beliefs, your personality, your availability and even your means:
+>
+> - EFT: Technique for releasing limiting emotions and strengthening energizing emotions
+> - Hypnosis: Techniques for releasing unconscious limitations and energizing unconscious forces
+> - EMDR: Bilateral Occultational Movement Technique to release emotional blockages related to trauma and strengthen resilience and internal resources
+> - NLP: Neuro Linguistic Programming to improve one's relationship with oneself and others
+> - NVC: Non Violent Communication techniques to improve communication with others
+> - TA: Transactional Analysis to identify and free ourselves from psychological games in our relationships and life scenarios
+> - Gestalt Therapy : Technique of self-expression through the body, emotions and mind, through one's relationship to oneself, to others and to the environment
+> - Sophrology: Techniques for mobilizing the positive in each person through positive visualization, guided relaxation, guided dynamic relaxation, etc.
+> - Coaching: Techniques to accompany the person in his or her process of revealing the best of him or herself, his or her best internal and external resources and his or her motivation and commitment to take action
+>
+> [Cécile Neuville - My Therapeutic Tools](http://psychologue-a-montpellier.blogspot.com/p/mes-outils-therapeutiques.html)
+
 ## Skin, interface to the world
 
 * Separation et passage

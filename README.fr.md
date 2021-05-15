@@ -89,16 +89,18 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 ## Boite à outils de Cécile Neuville
 
 > Voici les différents outils auxquels je me suis moi-même formée afin de pouvoir vous proposer un accompagnement le plus personnalisé et le plus adapté donc efficace possible, en fonction de votre problématique, de votre objectif, de l'urgence de la situation, de vos croyances, de votre personnalité, de votre disponibilité et même de vos moyens :
-> 
+>
 > - EFT : Technique de libération des émotions limitantes et de renforcement des émotions dynamisantes
 > - Hypnose : Techniques de libération des limites inconscientes et de dynamisation des forces inconscientes
-> - EMDR : Technique de Mouvements Occulaires Bilatéraux pour libérer les blocages émotionnels liés aux traumatismes et renforcer la résilience et les ressources internes 
+> - EMDR : Technique de Mouvements Occulaires Bilatéraux pour libérer les blocages émotionnels liés aux traumatismes et renforcer la résilience et les ressources internes
 > - PNL : Programmation Neuro Linguistique pour améliorer sa relation à soi et aux autres
 > - CNV : Techniques de Communication Non Violente pour améliorer sa communication avec autrui
 > - AT : Analyse Transactionnelle pour identifier et se libérer des jeux psychologiques dans nos relations et nos scénarios de vie
 > - Gestalt Thérapie : Technique d'expression de soi par le corps, les émotions et l'esprit, au travers de sa relation à soi, aux autres et à l'environnement
 > - Sophrologie : Techniques de mobilisation du positif de chacun par la visualisation positive, la relaxation guidée, la relaxation dynamique guidée, etc.
-> - Coaching : Techniques d'accompagnement de la personne dans sa démarche de révéler le meilleur d'elle-même, ses meilleures ressources internes et externes et sa motivation et ses engagements à passer à l'action 
+> - Coaching : Techniques d'accompagnement de la personne dans sa démarche de révéler le meilleur d'elle-même, ses meilleures ressources internes et externes et sa motivation et ses engagements à passer à l'action
+>
+> [Cécile Neuville - Mes Outils Thérapeutiques](http://psychologue-a-montpellier.blogspot.com/p/mes-outils-therapeutiques.html)
 
 ## Peau, interface au monde
 
@@ -162,7 +164,7 @@ Les élements que je souhaite partager avec le monde dans mon histoire sont:
 ## Attribution
 
 - [Toki Pona, jan Sonja](https://www.youtube.com/watch?v=eLn6LC1RpAo)
-- 9 piliers de vie, [Cécile Neuville](http://psychologue-a-montpellier.blo
+- 9 piliers de vie, [Cécile Neuville](http://psychologue-a-montpellier.blogspot.com/)
 - Marshall Rosenberg, "Les mots sont des fenêtres: introduction à la communication non violente"
 - [6 besoins fondamentaux humains, Team Tony, tonyrobbins.com, deepl](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
 - personne A

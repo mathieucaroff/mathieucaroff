@@ -10,12 +10,11 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Positivité
 - Simplicité
 - Qualité
-- Centre
+- Connexion, Centre
 - Patience
-- Corps, Vie, Forme, Santé, Art
+- Corps, Vie, Forme, Santé, Art, Douceur
 - Clarté
 - Grandeur, Intensité, Force
-- Douceur
 
 * Minimalisme, Facteur
 * Universalisme
@@ -51,24 +50,23 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - (G) Grandir / Évoluer
 - (T) Contribuer
 
-# Besoins du corps
+## Besoins du corps
 
-- Respirer quand j'ai besoin d'air
+- Respirer / besoin d'air
   - Bailler
   - Rire
-- Boire de l'eau quand j'ai soif
-- Respecter le rythme de mon corps
-  - Manger suffisement pour satisfaire ma faim
-  - Dormir suffisement pour respecter ma tête, mes muscles et ma peau
-- Allumer la lumière quand j'ai besoin de voir
-- Activer mon corps
+- Boire de l'eau / soif
+- Respecter le rythme du corps
+  - Manger suffisement / faim
+  - Dormir suffisement / respecter tête, muscles et peau
+- Allumer la lumière / besoin de voir
+- Activer le corps
   - Articulations
-    - M'échauffer au reveil et avant de bouger
+    - S'échauffer au reveil et avant de bouger
   - Muscles
-    - M'étirer quand j'en sens l'envie
-- Toucher mon corps, ma peau lorsque j'ai besoin de contacte
-- Uriner quand j'ai besoin de me place dans ma vessie
-- Faire caca quand j'ai besoin de me place dans mon système digestif
+    - S'étirer quand on en sens l'envie
+- Toucher son corps, sa peau / besoin de contacte physique
+- Faire ses besoins (pipi, caca) / besoin de me place dans la vessie / le système digestif
 
 ## 9 piliers de vie
 

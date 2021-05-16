@@ -9,13 +9,12 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Humanism
 - Positivity
 - Simplicity
-- Center
 - Quality
+- Connection, Center
 - Patience
-- Body, Life, Fitness, Health, Art
+- Body, Life, Fitness, Health, Art, Softness
 - Clarity
 - Scale, Intensity, Strength
-- Softness
 
 * Minimalism, Factor
 * Universalism
@@ -53,22 +52,21 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 ## Bodily needs
 
-- Breathe when I need air
-  - Yawn
+- Breathe / need for air
+  - Yawning
   - Laughing
-- Drinking water when I am thirsty
-- Respect my body's rhythm
-  - Eat enough to satisfy my hunger
-  - Sleep enough to respect my head, my muscles and my skin
-- Turn on the light when I need to see
-- Activate my body
+- Drinking water / thirst
+- Respect the body's rhythm
+  - Eat enough / hunger
+  - Sleep enough / respect head, muscles and skin
+- Turn on the light / need to see
+- Activate the body
   - Joints
-    - Warm up when I wake up and before I move
+    - Warm up when waking up and before moving
   - Muscles
-    - Stretch when I feel like it
-- Touching my body, my skin when I need contact
-- Urinating when I need to place myself in my bladder
-- Poop when I need to get into my digestive system
+    - Stretching when feeling like it
+- Touching one's body, skin / need physical contact
+- Relieve myself (pee / poop) / need room in the bladder / digestive system
 
 ## 9 pillars of life
 

@@ -39,6 +39,12 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Besoin
 - Vision du monde
 
+## Limites personelles
+
+_Limites personelles et limites dans les relations_
+
+Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.net/boundaries)
+
 ## Besoins simples, volonté
 
 (Simple, Grand)

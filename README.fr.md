@@ -28,6 +28,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 - Transparence
 - Définition
+- Mesure, Quantité
 
 ## Elément de model
 
@@ -119,7 +120,7 @@ Attention -> Corps -> Vision du monde et pensées
 
 ## Toki Pona
 
-(bon langage simple, en 120 mots)
+(bon langage simple, en 120 mots: [tokipona.org](http://tokipona.org/), [tokipona.net](http://tokipona.net/))
 
 - Imprimer [le dictionaire](http://tokipona.net/tp/janpije/dictionary.php)
 - Se lancer avec [la playlist des 12 jours de Toki Pona de jan Misali](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)

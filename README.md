@@ -39,6 +39,13 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Need, will
 - Vision of the world
 
+Thing
+
+- Person
+- Place
+- Object
+- Symbol/Representation
+
 ## Personal boundaries
 
 _Personal boundaries and boundaries in relationships_

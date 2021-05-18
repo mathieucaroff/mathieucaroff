@@ -39,6 +39,13 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Besoin
 - Vision du monde
 
+Chose
+
+- Personne
+- Endroit
+- Objet
+- Symbole/Représentation
+
 ## Limites personelles
 
 _Limites personelles et limites dans les relations_

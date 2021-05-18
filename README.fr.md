@@ -57,6 +57,17 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 - (G) Grandir / Évoluer
 - (T) Contribuer
 
+## Toki Pona
+
+(bon langage simple, en 120 mots: [tokipona.org](http://tokipona.org/), [tokipona.net](http://tokipona.net/))
+
+- Imprimer [le dictionaire](http://tokipona.net/tp/janpije/dictionary.php)
+- Se lancer avec [la playlist des 12 jours de Toki Pona de jan Misali](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
+- Rejoindre la communauté [sur Discord](https://www.google.com/search?q=toki%20pona%20discord) [(lien directe en 2021)](https://discord.gg/Byqn5z9)
+- Apprendre [le toki pony en hiéroglyphe](http://tokipona.net/tp/janpije/hieroglyphs.php)
+- Apprendre [langage des signes toki pona](http://tokipona.net/tp/janpije/signlanguage.php)
+- Accéder à [la liste des noms de langages](http://tokipona.net/tp/janpije/languagenames.php) et la [liste des noms de lieux](http://tokipona.net/tp/janpije/placenames.php)
+
 ## Besoins du corps
 
 - Respirer / besoin d'air
@@ -123,17 +134,6 @@ Accepter de changer c'est changer ma vision du monde et regarder les choses qui 
 ```
 Attention -> Corps -> Vision du monde et pensées
 ```
-
-## Toki Pona
-
-(bon langage simple, en 120 mots: [tokipona.org](http://tokipona.org/), [tokipona.net](http://tokipona.net/))
-
-- Imprimer [le dictionaire](http://tokipona.net/tp/janpije/dictionary.php)
-- Se lancer avec [la playlist des 12 jours de Toki Pona de jan Misali](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
-- Rejoindre la communauté [sur Discord](https://www.google.com/search?q=toki%20pona%20discord) [lien directe en 2021](https://discord.gg/Byqn5z9)
-- Apprendre [le toki pony en hiéroglyphe](http://tokipona.net/tp/janpije/hieroglyphs.php)
-- Apprendre [langage des signes toki pona](http://tokipona.net/tp/janpije/signlanguage.php)
-- Accéder à [la liste des noms de langages](http://tokipona.net/tp/janpije/languagenames.php) et la [liste des noms de lieux](http://tokipona.net/tp/janpije/placenames.php)
 
 ## Définition
 

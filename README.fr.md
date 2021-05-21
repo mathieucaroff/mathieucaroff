@@ -9,10 +9,11 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Humanisme
 - Positivité
 - Simplicité
+- Conscience
 - Qualité
-- Connexion, Centre
+- Connexion, Centre, Art
 - Patience
-- Corps, Vie, Forme, Santé, Art, Douceur
+- Santé, Forme, Vie, Corps, Douceur
 - Clarté
 - Grandeur, Intensité, Force
 
@@ -75,23 +76,31 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 - Apprendre [langage des signes toki pona](http://tokipona.net/tp/janpije/signlanguage.php)
 - Accéder à [la liste des noms de langages](http://tokipona.net/tp/janpije/languagenames.php) et la [liste des noms de lieux](http://tokipona.net/tp/janpije/placenames.php)
 
-## Besoins du corps
+## Corps
 
-- Respirer / besoin d'air
-  - Bailler
-  - Rire
-- Boire de l'eau / soif
-- Respecter le rythme du corps
-  - Manger suffisement / faim
-  - Dormir suffisement / respecter tête, muscles et peau
-- Allumer la lumière / besoin de voir
-- Activer le corps
-  - Articulations
-    - S'échauffer au reveil et avant de bouger
-  - Muscles
-    - S'étirer quand on en sens l'envie
-- Toucher son corps, sa peau / besoin de contacte physique
-- Faire ses besoins (pipi, caca) / besoin de me place dans la vessie / le système digestif
+Accès au corps
+
+- Respiration et points d'appui / de contact
+
+Besoins du corps
+
+- Respirer, Boire, Manger (rythme des repas), Se reposer (rythme du sommeil), Éliminer
+
+Activités du corps
+
+- Respiration, relation, profondeur, apport en oxygène, massage interne des organes
+- Hydratation, boire, apport en eau, élimination
+- Nutrition, manger, apport en nourriture, digérer, éliminer
+- Repos, se poser, s'allonger, dormir
+- Hygiène, transpiration, odeur, peau, nettoyage, se laver
+- Hygiène, se laver la bouche et les dents, les oreilles, les yeux, le nez
+- Peau, muscle, contacte, auto-massage, massage
+- Douceur, peau, contacte
+- Étirements des muscles, s'étirer librement
+- Mobilisation des articulations, activité physique, dance
+- Mobilisation des muscles, échauffement, activité physique, dance
+- Sex, masturbation
+- Traitement médicaux
 
 ## 9 piliers de vie
 
@@ -111,15 +120,15 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 > Voici les différents outils auxquels je me suis moi-même formée afin de pouvoir vous proposer un accompagnement le plus personnalisé et le plus adapté donc efficace possible, en fonction de votre problématique, de votre objectif, de l'urgence de la situation, de vos croyances, de votre personnalité, de votre disponibilité et même de vos moyens :
 >
-> - EFT : Technique de libération des émotions limitantes et de renforcement des émotions dynamisantes
-> - Hypnose : Techniques de libération des limites inconscientes et de dynamisation des forces inconscientes
-> - EMDR : Technique de Mouvements Occulaires Bilatéraux pour libérer les blocages émotionnels liés aux traumatismes et renforcer la résilience et les ressources internes
-> - PNL : Programmation Neuro Linguistique pour améliorer sa relation à soi et aux autres
-> - CNV : Techniques de Communication Non Violente pour améliorer sa communication avec autrui
-> - AT : Analyse Transactionnelle pour identifier et se libérer des jeux psychologiques dans nos relations et nos scénarios de vie
-> - Gestalt Thérapie : Technique d'expression de soi par le corps, les émotions et l'esprit, au travers de sa relation à soi, aux autres et à l'environnement
-> - Sophrologie : Techniques de mobilisation du positif de chacun par la visualisation positive, la relaxation guidée, la relaxation dynamique guidée, etc.
-> - Coaching : Techniques d'accompagnement de la personne dans sa démarche de révéler le meilleur d'elle-même, ses meilleures ressources internes et externes et sa motivation et ses engagements à passer à l'action
+> - **EFT** : Technique de libération des émotions limitantes et de renforcement des émotions dynamisantes
+> - **Hypnose** : Techniques de libération des limites inconscientes et de dynamisation des forces inconscientes
+> - **EMDR** : Technique de Mouvements Occulaires Bilatéraux pour libérer les blocages émotionnels liés aux traumatismes et renforcer la résilience et les ressources internes
+> - **PNL** : Programmation Neuro Linguistique pour améliorer sa relation à soi et aux autres
+> - **CNV** : Techniques de Communication Non Violente pour améliorer sa communication avec autrui
+> - **AT** : Analyse Transactionnelle pour identifier et se libérer des jeux psychologiques dans nos relations et nos scénarios de vie
+> - **Gestalt Thérapie** : Technique d'expression de soi par le corps, les émotions et l'esprit, au travers de sa relation à soi, aux autres et à l'environnement
+> - **Sophrologie** : Techniques de mobilisation du positif de chacun par la visualisation positive, la relaxation guidée, la relaxation dynamique guidée, etc.
+> - **Coaching** : Techniques d'accompagnement de la personne dans sa démarche de révéler le meilleur d'elle-même, ses meilleures ressources internes et externes et sa motivation et ses engagements à passer à l'action
 >
 > [Cécile Neuville - Mes Outils Thérapeutiques](http://psychologue-a-montpellier.blogspot.com/p/mes-outils-therapeutiques.html)
 

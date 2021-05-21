@@ -9,10 +9,11 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Humanism
 - Positivity
 - Simplicity
+- Consciousness
 - Quality
-- Connection, Center
+- Connection, Center, Art
 - Patience
-- Body, Life, Fitness, Health, Art, Softness
+- Health, Fitness, Life, Body, Softness
 - Clarity
 - Scale, Intensity, Strength
 
@@ -75,23 +76,31 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 - Learn the [toki pona sign language](http://tokipona.net/tp/janpije/signlanguage.php)
 - Find the [list of language names](http://tokipona.net/tp/janpije/languagenames.php) and the [list of name of places](http://tokipona.net/tp/janpije/placenames.php)
 
-## Bodily needs
+## Body
 
-- Breathe / need for air
-  - Yawning
-  - Laughing
-- Drinking water / thirst
-- Respect the body's rhythm
-  - Eat enough / hunger
-  - Sleep enough / respect head, muscles and skin
-- Turn on the light / need to see
-- Activate the body
-  - Joints
-    - Warm up when waking up and before moving
-  - Muscles
-    - Stretching when feeling like it
-- Touching one's body, skin / need physical contact
-- Relieve myself (pee / poop) / need room in the bladder / digestive system
+Access to the body
+
+- Breathing and point of support / contact
+
+Bodily needs
+
+- Breath, Drink, Eat (meal rythm), Sleep (sleeping rythm), Flush out
+
+Activity of the body
+
+- Breathing, relation, depth, oxygen, internal organ massage
+- Hydration, drinking, water intake, flush out
+- Nutrition, eating, food intake, digesting, flush out
+- Rest, lie down, sleep
+- Hygiene, sweating, smell, skin, cleaning, washing
+- Hygiene, washing mouth and teeth, ears, eyes, nose
+- Skin, muscle, contact, self-massage, massage
+- Softness, skin, contact
+- Stretching muscles, stretching freely
+- Mobilization of joints, physical activity, dance
+- Muscle mobilization, warm-up, physical activity, dance
+- Sex, masturbation
+- Medical treatment
 
 ## 9 pillars of life
 
@@ -111,15 +120,15 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 > Here are the different tools that I have trained myself to use in order to offer you the most personalized and effective support possible, depending on your problem, your objective, the urgency of the situation, your beliefs, your personality, your availability and even your means:
 >
-> - EFT: Technique for releasing limiting emotions and strengthening energizing emotions
-> - Hypnosis: Techniques for releasing unconscious limitations and energizing unconscious forces
-> - EMDR: Bilateral Occultational Movement Technique to release emotional blockages related to trauma and strengthen resilience and internal resources
-> - NLP: Neuro Linguistic Programming to improve one's relationship with oneself and others
-> - NVC: Non Violent Communication techniques to improve communication with others
-> - TA: Transactional Analysis to identify and free ourselves from psychological games in our relationships and life scenarios
-> - Gestalt Therapy : Technique of self-expression through the body, emotions and mind, through one's relationship to oneself, to others and to the environment
-> - Sophrology: Techniques for mobilizing the positive in each person through positive visualization, guided relaxation, guided dynamic relaxation, etc.
-> - Coaching: Techniques to accompany the person in his or her process of revealing the best of him or herself, his or her best internal and external resources and his or her motivation and commitment to take action
+> - **EFT**: Emotional Freedom Techniques for releasing limiting emotions and strengthening energizing emotions
+> - **Hypnosis**: Techniques for releasing unconscious limitations and energizing unconscious forces
+> - **EMDR**: Eye Movement Desensitization and Reprocessing to release emotional blockages related to trauma and strengthen resilience and internal resources
+> - **NLP**: Neuro Linguistic Programming to improve one's relationship with oneself and others
+> - **NVC**: Non Violent Communication to improve communication with others
+> - **TA**: Transactional Analysis to identify and free ourselves from psychological games in our relationships and life scenarios
+> - **Gestalt Therapy**: Technique of self-expression through the body, emotions and mind, through one's relationship to oneself, to others and to the environment
+> - **Sophrology**: Techniques for mobilizing the positive in each person through positive visualization, guided relaxation, guided dynamic relaxation, etc.
+> - **Coaching**: Techniques to accompany the person in his or her process of revealing the best of him or herself, his or her best internal and external resources and his or her motivation and commitment to take action
 >
 > [Cécile Neuville - My Therapeutic Tools](http://psychologue-a-montpellier.blogspot.com/p/mes-outils-therapeutiques.html)
 

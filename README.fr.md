@@ -151,6 +151,23 @@ Accepter de changer c'est changer ma vision du monde et regarder les choses qui 
 Attention -> Corps -> Vision du monde et pensées
 ```
 
+## Résolution de problèmes
+
+- Utiliser un moteur de recherche
+
+> "Comment résoudre un problème que vous n'avez jamais rencontré auparavant"
+>
+> 1. Utiliser les particularités de la situation
+> 2. Donner aux choses des noms (choisis)
+> 3. Faire usage des symétries
+> 4. Essayer de décrire une chose de deux manières
+> 5. Faire un dessin [[Des nombres? Faites en des coordonnées!]]
+> 6. S'intérroger sur une version plus simple du problème
+> ...
+> 9. ~Utilisez des ordinateurs
+>
+> (3Blue1Brown)
+
 ## Définition
 
 * Attribution : Relier des gens à des choses
@@ -188,6 +205,7 @@ Les élements que je souhaite partager avec le monde dans mon histoire sont:
 - 9 piliers de vie, [Cécile Neuville](http://psychologue-a-montpellier.blogspot.com/)
 - Marshall Rosenberg, "Les mots sont des fenêtres: introduction à la communication non violente"
 - [6 besoins fondamentaux humains, Team Tony, tonyrobbins.com, deepl](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
+- [Tips to be a better problem solver, 3Blue1Brown](https://www.youtube.com/watch?v=QvuQH4_05LI)
 - personne A
 - personne B
 - personne singe

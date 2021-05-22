@@ -151,6 +151,23 @@ Letting go is changing my vision of the world to see what is important to me fro
 Attention -> Body -> Need -> Vision of the world and thoughts
 ```
 
+## Problem Solving
+
+- Use a search engine
+
+> "How to solve a problem you've never seen before"
+>
+> 1. Use the defining features of the setup
+> 2. Give things (meaningful) names
+> 3. Leverage Symmetry
+> 4. Try describing one object two different ways
+> 5. Draw a picture [[Have some numbers? Make them coordinates!]]
+> 6. Ask a simpler version of the problem
+> ...
+> 9. ~Use computers
+>
+> (3Blue1Brown)
+
 ## Definition
 
 * Attribution : Relate people to things

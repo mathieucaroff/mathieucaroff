@@ -11,6 +11,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Simplicité
 - Conscience
 - Qualité
+- Conscience du corps
 - Connexion, Centre, Art
 - Patience
 - Santé, Forme, Vie, Corps, Douceur

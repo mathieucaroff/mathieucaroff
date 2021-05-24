@@ -11,6 +11,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Simplicity
 - Consciousness
 - Quality
+- Awareness of the body
 - Connection, Center, Art
 - Patience
 - Health, Fitness, Life, Body, Softness

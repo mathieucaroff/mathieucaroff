@@ -209,3 +209,7 @@ The elements that I wish to share with the world in my story are:
 - person A
 - person B
 - person monkey
+
+## Other tribute
+
+- The My Little Pony Community (in particular pony.town and the likes) <3 <3 <3

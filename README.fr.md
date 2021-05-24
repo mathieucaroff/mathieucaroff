@@ -164,7 +164,7 @@ Attention -> Corps -> Vision du monde et pensées
 > 5. Faire un dessin [[Des nombres? Faites en des coordonnées!]]
 > 6. S'intérroger sur une version plus simple du problème
 > ...
-> 9. ~Utilisez des ordinateurs
+> 9. ~Utiliser des ordinateurs / de la programmation informatique
 >
 > (3Blue1Brown)
 

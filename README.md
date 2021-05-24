@@ -164,7 +164,7 @@ Attention -> Body -> Need -> Vision of the world and thoughts
 > 5. Draw a picture [[Have some numbers? Make them coordinates!]]
 > 6. Ask a simpler version of the problem
 > ...
-> 9. ~Use computers
+> 9. ~Use computers / programming
 >
 > (3Blue1Brown)
 

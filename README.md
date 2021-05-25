@@ -6,17 +6,25 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 (Simple, Cognitive)
 
+<3:
+
 - Humanism
 - Positivity
 - Simplicity
+
+Patiente values:
+
 - Consciousness
+- Patience
 - Quality
 - Awareness of the body
-- Connection, Center, Art
-- Patience
+- Exchange
+- Center
 - Health, Fitness, Life, Body, Softness
 - Clarity
 - Scale, Intensity, Strength
+
+Shuffled values:
 
 * Minimalism, Factor
 * Universalism
@@ -31,6 +39,8 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Transparency
 - Definition
 - Measure, Quantity
+- Connection
+- Art
 
 ## Element of model
 
@@ -70,9 +80,10 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 (good simple language of 120 words: [tokipona.org](http://tokipona.org/), [tokipona.net](http://tokipona.net/))
 
-- Print [the dictionnary](http://tokipona.net/tp/janpije/dictionary.php)
+- Read, Learn, Print [the dictionnary](http://tokipona.net/tp/janpije/dictionary.php)
+- Also see the dicitionnaries from the community: [nimi pi pu ala](http://tokipona.org/nimi_pi_pu_ala.txt) and [nimi mute pi toki pona](https://tp.lcp.su/nimi/), more complete
 - Get started with [jan Misali's 12 day of Toki Pona playlist](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
-- Reach the community [on Discord](https://www.google.com/search?q=toki%20pona%20discord) [(direct link as of 2021)](https://discord.gg/Byqn5z9)
+- Reach the community [on Discord](https://discord.gg/Byqn5z9) (or look it up on Google)
 - Learn the [toki pony hieroglyphs language](http://tokipona.net/tp/janpije/hieroglyphs.php)
 - Learn the [toki pona sign language](http://tokipona.net/tp/janpije/signlanguage.php)
 - Find the [list of language names](http://tokipona.net/tp/janpije/languagenames.php) and the [list of name of places](http://tokipona.net/tp/janpije/placenames.php)

@@ -6,17 +6,25 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 (Simple, Cognitif)
 
+<3:
+
 - Humanisme
 - Positivité
 - Simplicité
+
+Valeurs patientes:
+
 - Conscience
+- Patience
 - Qualité
 - Conscience du corps
-- Connexion, Centre, Art
-- Patience
+- Échange
+- Centre
 - Santé, Forme, Vie, Corps, Douceur
 - Clarté
 - Grandeur, Intensité, Force
+
+Valeurs mélangées:
 
 * Minimalisme, Facteur
 * Universalisme
@@ -31,6 +39,8 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 - Transparence
 - Définition
 - Mesure, Quantité
+- Connexion
+- Art
 
 ## Elément de model
 
@@ -48,7 +58,7 @@ Chose
 - Objet
 - Symbole/Représentation
 
-## Limites personelles
+## Frontières relationnelles
 
 _Limites personelles et limites dans les relations_
 
@@ -70,9 +80,10 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 (bon langage simple, en 120 mots: [tokipona.org](http://tokipona.org/), [tokipona.net](http://tokipona.net/))
 
-- Imprimer [le dictionnaire](http://tokipona.net/tp/janpije/dictionary.php)
+- Lire, Apprendre, Imprimer [le dictionnaire](http://tokipona.net/tp/janpije/dictionary.php)
+- Voire aussi les dictionnaires de la communautée: [nimi pi pu ala](http://tokipona.org/nimi_pi_pu_ala.txt) et [nimi mute pi toki pona](https://tp.lcp.su/nimi/), plus complet
 - Se lancer avec [la playlist des 12 jours de Toki Pona de jan Misali](https://www.youtube.com/playlist?list=PLjOmpMyMxd8T9lZjF36c4mn4YgwZ4ToT6)
-- Rejoindre la communauté [sur Discord](https://www.google.com/search?q=toki%20pona%20discord) [(lien directe en 2021)](https://discord.gg/Byqn5z9)
+- Rejoindre la communauté [sur Discord](https://discord.gg/Byqn5z9) (ou bien chercher sur Google)
 - Apprendre [le toki pona en hiéroglyphe](http://tokipona.net/tp/janpije/hieroglyphs.php)
 - Apprendre [langage des signes toki pona](http://tokipona.net/tp/janpije/signlanguage.php)
 - Accéder à [la liste des noms de langages](http://tokipona.net/tp/janpije/languagenames.php) et la [liste des noms de lieux](http://tokipona.net/tp/janpije/placenames.php)

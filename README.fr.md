@@ -41,6 +41,10 @@ Valeurs mélangées:
 - Mesure, Quantité
 - Connexion
 - Art
+- Rire
+- Argent
+- Spiritualité
+- Religion
 
 ## Elément de model
 

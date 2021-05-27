@@ -167,6 +167,25 @@ Accepter de changer c'est changer ma vision du monde et regarder les choses qui 
 Attention -> Corps -> Vision du monde et pensées
 ```
 
+## Émotion
+
+- Peur/Espoir - Émotion pour reculer, ralentire, se préparer
+  - Connaitre les dangers qui m'entoure et me préparer à y faire face
+  - Connaitre les opportunités qui m'entoure et me préparer à y faire face
+- Colère - Émotion pour repousser une aggression
+  - Mon territoire (corps, espace vitale, possession, territoire) a été transgressé
+  - Mon système de principes et de valeurs a été transgressé
+- Tristesse - Émotion pour changer de vision
+  - de patience, de repli, d'éloigement, de réflection, de méditation
+- Joie - Émotion de la satifaction des besoins
+
+Expression positives des émotions:
+
+- Gratitude - "Merci", expression de la joie vers des personnes ayant participé à la réalisation de l'évènement
+- Espoir - Possibilité future heureux
+- Fierté - Satisfaction de ce que je dis, fais ou possède
+- Amour - Joie des échanges
+
 ## Résolution de problèmes
 
 - Utiliser un moteur de recherche

@@ -167,6 +167,22 @@ Letting go is changing my vision of the world to see what is important to me fro
 Attention -> Body -> Need -> Vision of the world and thoughts
 ```
 
+## Emotion
+
+- Fear/Hope - Emotion to go back, stop or prepare
+  - Know the dangers around me and prepare to face them
+  - Know the opportunities around me and prepare to face them
+- Anger - Émotion to push back an
+- Sadness - Émotion to change one's vision
+- Joice - Émotion of the satisfaction of needs
+
+Positive expression of emotions:
+
+- Gratefulness - "Thanks"
+- Hope - Possibility of a happy future
+- Pride - Happy of what I say, do or own
+- Love - Joice of exchanges
+
 ## Problem Solving
 
 - Use a search engine

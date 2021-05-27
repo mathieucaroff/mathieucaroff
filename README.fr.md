@@ -167,6 +167,14 @@ Accepter de changer c'est changer ma vision du monde et regarder les choses qui 
 Attention -> Corps -> Vision du monde et pensées
 ```
 
+## Role
+
+- médiateur
+- messagé
+- coach
+- coordinateur
+- programmeur
+
 ## Émotion
 
 - Peur/Espoir - Émotion pour reculer, ralentire, se préparer

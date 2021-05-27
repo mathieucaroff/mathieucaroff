@@ -167,6 +167,14 @@ Letting go is changing my vision of the world to see what is important to me fro
 Attention -> Body -> Need -> Vision of the world and thoughts
 ```
 
+## Role
+
+- mediator
+- messenger
+- coach
+- coordinator
+- programmer
+
 ## Emotion
 
 - Fear/Hope - Emotion to go back, stop or prepare

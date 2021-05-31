@@ -226,7 +226,7 @@ Expression positives des émotions:
 
 ### Histoire de moi
 
-Je suis Mathieu CAROFF. Je grandi avec ma famille, l'école et quelques amis. Ma mère m'aime beaucoups. J'ai des difficultés et mes parents m'aide. La première rencontre et la première découverte de moi surviennent avec la personne A. Je mature au contacte de la science, de l'anglais, de l'allemend, de la mathématique intense, d'internet, de la recherche de la qualité de la connaissance, de l'espagnole et de la programmation informatique, de la culture open source. Je reviens vers la personne A. Je termine mes études. Je recontre le livre de Rosenberg. Je rencontre le langage Toki Pona. Je rencontre la personne B, plus douce, une sophrologue. Je rencontre la personne singe. Je décide de connaitre ma relation au monde. J'apprends les langages.
+Je suis Mathieu CAROFF. Je grandi avec ma famille, l'école et quelques amis. Ma mère m'aime beaucoups. J'ai des difficultés et mes parents m'aide. La première rencontre et la première découverte de moi surviennent avec la spécialiste A. Je mature au contacte de la science, de l'anglais, de l'allemend, de la mathématique intense, d'internet, de la recherche de la qualité de la connaissance, de l'espagnole et de la programmation informatique avec sa culture open source. Je reviens vers la spécialiste A. Je termine mes études. Je recontre le livre de Rosenberg. Je rencontre le langage Toki Pona. Je rencontre la spécialiste B, une sophrologue. Je rencontre le spécialiste singe. Je décide de connaitre ma relation au monde. J'apprends les langages.
 
 Les élements que je souhaite partager avec le monde dans mon histoire sont:
 
@@ -249,9 +249,9 @@ Les élements que je souhaite partager avec le monde dans mon histoire sont:
 - Marshall Rosenberg, "Les mots sont des fenêtres: introduction à la communication non violente"
 - [6 besoins fondamentaux humains, Team Tony, tonyrobbins.com, deepl](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
 - [Tips to be a better problem solver, 3Blue1Brown](https://www.youtube.com/watch?v=QvuQH4_05LI)
-- personne A
-- personne B
-- personne singe
+- spécialiste A
+- spécialiste B
+- spécialiste singe
 
 ## Reférence
 

@@ -223,7 +223,7 @@ Positive expression of emotions:
 
 ### Story of me
 
-I am Mathieu CAROFF. I grow up with my family, school and some friends. I encounter specialists. Specialist A makes me read a book. I mature in contact with science, English, German, intense mathematics, internet, search of quality of knowledge, Spanish and computer programming, open source. I return to person A. I finish my studies. I meet the book of Rosenberg. I meet the Toki Pona language. I meet person B, more gentle, a sophrologist. I meet the monkey person. I decide to know my relationship to the world. I learn the languages.
+I am Mathieu CAROFF. I grow up with my family, school and some friends. I encounter specialists. The first meeting and first self-discovery happens with specialist A. I mature in contact with science, English, German, intense mathematics, internet, search of quality of knowledge, Spanish and computer programming, open source. I return to specialist A. I finish my studies. I meet the book of Rosenberg. I meet the Toki Pona language. I meet specialist B, a sophrologist. I meet the specialist monkey man. I decide to know my relationship to the world. I learn the languages.
 
 The elements that I wish to share with the world in my story are:
 
@@ -245,9 +245,9 @@ The elements that I wish to share with the world in my story are:
 - 9 pillars of life, [Cécile Neuville](http://psychologue-a-montpellier.blogspot.com/)
 - Marshall Rosenberg, "Non violent communication: a language of compassion"
 - [6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
-- person A
-- person B
-- person monkey
+- specialist A
+- specialist B
+- specialist monkey man
 
 ## Other tribute
 

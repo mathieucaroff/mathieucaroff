@@ -41,10 +41,10 @@ Shuffled values:
 - Measure, Quantity
 - Connection
 - Art
+- Confidence
 - Laugh
 - Money
 - Spirituality
-- Religion
 
 ## Element of model
 

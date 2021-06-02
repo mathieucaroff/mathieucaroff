@@ -41,10 +41,10 @@ Valeurs mélangées:
 - Mesure, Quantité
 - Connexion
 - Art
+- Confiance
 - Rire
 - Argent
 - Spiritualité
-- Religion
 
 ## Elément de model
 
@@ -102,7 +102,12 @@ Besoins du corps
 
 - Respirer, Boire, Manger (rythme des repas), Se reposer (rythme du sommeil), Éliminer
 
-Activités du corps
+Activité du corps
+
+- Respirer, Pomper (coeur), Digérer, Contracter (muscles)
+- Bouger (marcher, courir, tenir debout, tenir assis)
+
+Activités détaillées du corps
 
 - Respiration, relation, profondeur, apport en oxygène, massage interne des organes
 - Hydratation, boire, apport en eau, élimination

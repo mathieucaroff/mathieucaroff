@@ -54,6 +54,7 @@ Shuffled values:
 - Relation
 - Need, will
 - Vision of the world
+- Communication, languages
 
 Thing
 

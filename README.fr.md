@@ -54,6 +54,7 @@ Valeurs mélangées:
 - Relation
 - Besoin
 - Vision du monde
+- Communication, langages
 
 Chose
 

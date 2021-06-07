@@ -217,6 +217,19 @@ Expression positives des émotions:
 >
 > (3Blue1Brown)
 
+## Pouvoir
+
+- Network Power -> Friendship
+- Interpersonal Power -> Charisma
+- Technical/Expert Power -> Expertise
+- Knowledge Power -> (Scientific / Academic) Knowledge
+- Image Power -> Impressiveness
+- Formal/Official Power -> Status
+- Resource Power -> Money and Belongings
+- Physical Power -> Body
+- Attributes Power -> Character
+- Moral Power -> Moral Impressiveness
+
 ## Définition
 
 * Attribution : Relier des gens à des choses

@@ -14,13 +14,13 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 Patiente values:
 
-- Consciousness
-- Patience
+- Center
 - Quality
+- Consciousness
 - Awareness of the body
 - Exchange
-- Center
 - Health, Fitness, Life, Body, Softness
+- Patience
 - Clarity
 - Scale, Intensity, Strength
 
@@ -41,10 +41,9 @@ Shuffled values:
 - Measure, Quantity
 - Connection
 - Art
-- Confidence
+- Confidence, Spirituality
 - Laugh
 - Money
-- Spirituality
 
 ## Element of model
 

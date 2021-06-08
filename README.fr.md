@@ -14,13 +14,13 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 Valeurs patientes:
 
-- Conscience
-- Patience
+- Centre
 - Qualité
+- Conscience
 - Conscience du corps
 - Échange
-- Centre
 - Santé, Forme, Vie, Corps, Douceur
+- Patience
 - Clarté
 - Grandeur, Intensité, Force
 
@@ -41,10 +41,9 @@ Valeurs mélangées:
 - Mesure, Quantité
 - Connexion
 - Art
-- Confiance
+- Confiance, Spiritualité
 - Rire
 - Argent
-- Spiritualité
 
 ## Elément de model
 
@@ -283,3 +282,5 @@ Les élements que je souhaite partager avec le monde dans mon histoire sont:
 ## Autre hommage
 
 - La communautée Mon Petit Poney (en particulier pony.town et ses consoeurs) <3 <3 <3
+
+- Santé, Forme, Vie, Corps, Douceur

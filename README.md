@@ -120,6 +120,7 @@ Activity of the body
 - Mobilization of joints, physical activity, dance
 - Muscle mobilization, warm-up, physical activity, dance
 - Sex, masturbation
+- Raising plants, crops, animals, horses, rabbits, donkeys, oxes
 - Medical treatment
 
 ## 9 pillars of life

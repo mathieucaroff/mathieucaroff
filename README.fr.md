@@ -125,6 +125,7 @@ Activités détaillées du corps
 - Mobilisation des articulations, activité physique, dance
 - Mobilisation des muscles, échauffement, activité physique, dance
 - Sex, masturbation
+- Élever plantes, cultures, animaux, cheveaux, lapins, anes, boeufs
 - Traitement médicaux
 
 ## 9 piliers de vie

@@ -273,6 +273,7 @@ The elements that I wish to share with the world in my story are:
 - 9 pillars of life, [Cécile Neuville](http://psychologue-a-montpellier.blogspot.com/)
 - Marshall Rosenberg, "Non violent communication: a language of compassion"
 - [6 fundamental human needs, Team Tony, tonyrobbins.com](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
+- [Tips to be a better problem solver, 3Blue1Brown](https://www.youtube.com/watch?v=QvuQH4_05LI)
 - Power [daringtolivefully.com](https://daringtolivefully.com/increase-your-personal-power)
 - specialist A
 - specialist B

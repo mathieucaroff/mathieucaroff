@@ -93,6 +93,10 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 - Learn the [toki pona sign language](http://tokipona.net/tp/janpije/signlanguage.php)
 - Find the [list of language names](http://tokipona.net/tp/janpije/languagenames.php) and the [list of name of places](http://tokipona.net/tp/janpije/placenames.php)
 
+### jan Poto - "This looks really interesting! What is it exactly?"
+
+this is me, my values, my tools, my vision of the world, my "lipu", my card, my map
+
 ## Body
 
 Access to the body

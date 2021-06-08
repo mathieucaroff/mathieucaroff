@@ -97,6 +97,10 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 this is me, my values, my tools, my vision of the world, my "lipu", my card, my map
 
+### jan Masie - "Someday I will translate my map, for all the people that need it"
+
+(2021-06-08, 2 AM)
+
 ## Body
 
 Access to the body

@@ -108,6 +108,11 @@ Bodily needs
 
 Activity of the body
 
+- Breath, Pump (heart), Digest, Contract (muscles)
+- Move (walk, run, stand up, stand seated)
+
+Detailed activity of the body
+
 - Breathing, relation, depth, oxygen, internal organ massage
 - Hydration, drinking, water intake, flush out
 - Nutrition, eating, food intake, digesting, flush out

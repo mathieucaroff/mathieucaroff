@@ -273,6 +273,7 @@ Les élements que je souhaite partager avec le monde dans mon histoire sont:
 - Marshall Rosenberg, "Les mots sont des fenêtres: introduction à la communication non violente"
 - [6 besoins fondamentaux humains, Team Tony, tonyrobbins.com, deepl](https://www.tonyrobbins.com/mind-meaning/do-you-need-to-feel-significant/)
 - [Tips to be a better problem solver, 3Blue1Brown](https://www.youtube.com/watch?v=QvuQH4_05LI)
+- Pouvoir [daringtolivefully.com](https://daringtolivefully.com/increase-your-personal-power)
 - spécialiste A
 - spécialiste B
 - spécialiste singe
@@ -284,5 +285,3 @@ Les élements que je souhaite partager avec le monde dans mon histoire sont:
 ## Autre hommage
 
 - La communautée Mon Petit Poney (en particulier pony.town et ses consoeurs) <3 <3 <3
-
-- Santé, Forme, Vie, Corps, Douceur

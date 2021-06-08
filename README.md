@@ -14,6 +14,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 Patiente values:
 
+- Freedom, self-determination
 - Center
 - Quality
 - Consciousness

@@ -14,6 +14,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 Valeurs patientes:
 
+- Liberté, autodétermination
 - Centre
 - Qualité
 - Conscience

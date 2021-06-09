@@ -1,8 +1,8 @@
-# Mathieu CAROFF
+# Mathieu CAROFF, the pink artist
 
 Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr)](README.fr.md)
 
-## Elements, guides
+## Elements, guides, values
 
 (Simple, Cognitive)
 
@@ -14,6 +14,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 Patiente values:
 
+- Kink4 (JBRG)
 - Freedom, self-determination
 - Quality
 - Center

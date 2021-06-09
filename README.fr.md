@@ -1,8 +1,8 @@
-# Mathieu CAROFF
+# Mathieu CAROFF, l'artist rose
 
 This is the french version. English version here: [Mathieu CAROFF (en)](./README.md)
 
-## Elements, guides
+## Elements, guides, valeurs
 
 (Simple, Cognitif)
 
@@ -14,6 +14,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 Valeurs patientes:
 
+- Kink4 "Roi4" (JBRG)
 - Liberté, autodétermination
 - Qualité
 - Centre

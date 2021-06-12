@@ -1,4 +1,4 @@
-# Mathieu CAROFF, the pink artist
+# Mathieu CAROFF, (w)Phiint(ke)
 
 Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr)](README.fr.md)
 

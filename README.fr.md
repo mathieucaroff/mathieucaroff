@@ -1,4 +1,4 @@
-# Mathieu CAROFF, l'artist rose
+# Mathieu CAROFF, (w)Phiint(ke)
 
 This is the french version. English version here: [Mathieu CAROFF (en)](./README.md)
 

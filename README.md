@@ -207,6 +207,12 @@ Positive expression of emotions:
 - Pride - Happy of what I say, do or own
 - Love - Joice of exchanges
 
+## Pony
+
+- Lyra Heartstrings
+- Maud Pie
+- Pinkie Pie
+
 ## Problem Solving
 
 - Use a search engine

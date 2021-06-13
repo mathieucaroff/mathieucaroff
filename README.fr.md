@@ -210,6 +210,12 @@ Expression positives des émotions:
 - Fierté - Satisfaction de ce que je dis, fais ou possède
 - Amour - Joie des échanges
 
+## Poney
+
+- Lyra Heartstrings
+- Maud Pie
+- Pinkie Pie
+
 ## Résolution de problèmes
 
 - Utiliser un moteur de recherche

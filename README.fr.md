@@ -14,6 +14,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 Valeurs patientes:
 
+- Transparence
 - Kink4 "Roi4" (JBRG)
 - Liberté, autodétermination
 - Qualité
@@ -38,7 +39,6 @@ Valeurs mélangées:
 * Correlation et Causalité
 * Praticité
 
-- Transparence
 - Définition
 - Mesure, Quantité
 - Connexion

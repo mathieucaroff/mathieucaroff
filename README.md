@@ -14,6 +14,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 Patiente values:
 
+- Transparency
 - Kink4 (JBRG)
 - Freedom, self-determination
 - Quality
@@ -38,7 +39,6 @@ Shuffled values:
 * Correlation and causality
 * Practicality
 
-- Transparency
 - Definition
 - Measure, Quantity
 - Connection

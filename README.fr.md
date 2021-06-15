@@ -98,7 +98,7 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 c'est moi, mes valeurs, mes outils, ma vision du monde, mon "lipu", ma carte, mon document
 
-### jan Masie - "Un jour, je traduirai ma carte, pour tous ceux qui en ont besoin."
+### jan Masie - "Un jour, je traduirai ma carte, pour tous les gens"
 
 (2021-06-08, 2 AM)
 

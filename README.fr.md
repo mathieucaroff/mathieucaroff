@@ -235,16 +235,16 @@ Expression positives des émotions:
 
 ## Pouvoir
 
-- Physical Power -> Corps
-- Network Power -> Amitié
-- Knowledge Power -> Connaissance (Scientifique / Academique)
-- Interpersonal Power -> Charisme
-- Technical/Expert Power -> Expertise
-- Image Power -> Impressivité
-- Resource Power -> Monnaie and Possessions
-- Moral Power -> Impressivité Morale
-- Attributes Power -> Caractère
-- Formal/Official Power -> Status
+- Corps
+- Amitié
+- Connaissance (Scientifique / Academique)
+- Charisme
+- Expertise
+- Impressivité
+- Monnaie and Possessions
+- Impressivité Morale
+- Caractère
+- Status
 
 ## Définition
 

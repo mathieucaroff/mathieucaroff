@@ -232,16 +232,16 @@ Positive expression of emotions:
 
 ## Power
 
+- Physical Power -> Body
 - Network Power -> Friendship
+- Knowledge Power -> (Scientific / Academic) Knowledge
 - Interpersonal Power -> Charisma
 - Technical/Expert Power -> Expertise
-- Knowledge Power -> (Scientific / Academic) Knowledge
 - Image Power -> Impressiveness
-- Formal/Official Power -> Status
 - Resource Power -> Money and Belongings
-- Physical Power -> Body
-- Attributes Power -> Character
 - Moral Power -> Moral Impressiveness
+- Attributes Power -> Character
+- Formal/Official Power -> Status
 
 ## Definition
 

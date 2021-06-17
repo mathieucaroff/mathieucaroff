@@ -82,6 +82,19 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 * (G) Growth
 * (T) Contribution
 
+## Power
+
+- Body
+- Friendship
+- Knowledge
+- Charisma
+- Expertise
+- Impressiveness
+- Money and Belongings
+- Moral Impressiveness
+- Character
+- Status
+
 ## Toki Pona
 
 (good simple language of 120 words: [tokipona.org](http://tokipona.org/), [tokipona.net](http://tokipona.net/))
@@ -229,19 +242,6 @@ Positive expression of emotions:
 > 9. ~Use computers / programming
 >
 > (3Blue1Brown)
-
-## Power
-
-- Body
-- Friendship
-- (Scientific / Academic) Knowledge
-- Charisma
-- Expertise
-- Impressiveness
-- Money and Belongings
-- Moral Impressiveness
-- Character
-- Status
 
 ## Definition
 

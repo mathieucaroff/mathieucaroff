@@ -249,6 +249,7 @@ Expression positives des émotions:
 
 ## Définition
 
+* Humnanisme : Vision du monde centrée sur les humains
 * Attribution : Relier des gens à des choses
 
 - Certitude : l'assurance d'éviter la douleur et d'obtenir le plaisir

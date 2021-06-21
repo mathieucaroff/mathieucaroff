@@ -249,6 +249,7 @@ Positive expression of emotions:
 
 ## Definition
 
+* Humanism : Vision of the world centered around humans
 * Attribution : Relate people to things
 
 - Certainty: assurance you can avoid pain and gain pleasure

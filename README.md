@@ -6,6 +6,9 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 - Smile
 
+- Abstinence of sexual activity (and "nofap")
+- Fasting (up to 42 hours)
+
 ## Elements, guides, values
 
 (Simple, Cognitive)

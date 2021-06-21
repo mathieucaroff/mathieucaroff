@@ -6,6 +6,9 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 - Sourire
 
+- Abstinence d'activité sexuelle (et "nofap")
+- Jeune (jusqu'à 40 heures)
+
 ## Elements, guides, valeurs
 
 (Simple, Cognitif)

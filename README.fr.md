@@ -21,7 +21,8 @@ Valeurs patientes:
 - Conscience
 - Conscience du corps
 - Échange
-- Santé, Forme, Vie, Corps, Douceur
+- Santé, Forme, Vie, Corps
+- Douceur
 - Patience
 - Clarté
 - Grandeur, Intensité, Force

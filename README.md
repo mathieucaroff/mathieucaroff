@@ -21,7 +21,8 @@ Patiente values:
 - Consciousness
 - Awareness of the body
 - Exchange
-- Health, Fitness, Life, Body, Softness
+- Health, Fitness, Life, Body
+- Softness
 - Patience
 - Clarity
 - Scale, Intensity, Strength

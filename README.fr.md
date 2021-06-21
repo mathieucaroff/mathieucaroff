@@ -84,15 +84,15 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 ## Pouvoir
 
-- Corps
-- Amitié
-- Connaissance
-- Charisme
-- Expertise
-- Impressivité
-- Monnaie and Possessions
-- Impressivité Morale
-- Status
+- Corps, Pouvoir physique
+- Amitié, Famille, Pouvoir du réseau
+- Connaissance, Pouvoir de la connaissance
+- Charisme, Pouvoir interpersonnel
+- Expertise, Pouvoir technique, expert
+- Impressivité, Pouvoir d'image
+- Monnaie and Possessions, Pouvoir des ressources
+- Impressivité Morale, Pouvoir morale
+- Status, Pouvoir formel
 
 ## Toki Pona
 

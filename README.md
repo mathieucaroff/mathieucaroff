@@ -84,15 +84,15 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 
 ## Power
 
-- Body
-- Friendship
-- Knowledge
-- Charisma
-- Expertise
-- Impressiveness
-- Money and Belongings
-- Moral Impressiveness
-- Status
+- Body, Physical Power
+- Friendship, Family, Network Power
+- Knowledge, Knowledge Power
+- Charisma, Interpersonal Power
+- Expertise, Technical/Expert Power
+- Impressiveness, Image Power
+- Money and Belongings, Resource Power
+- Moral Impressiveness, Moral Power
+- Status, Formal Power
 
 ## Toki Pona
 

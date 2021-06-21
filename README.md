@@ -2,6 +2,10 @@
 
 Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr)](README.fr.md)
 
+## Body elements
+
+- Smile
+
 ## Elements, guides, values
 
 (Simple, Cognitive)

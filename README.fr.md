@@ -2,6 +2,10 @@
 
 This is the french version. English version here: [Mathieu CAROFF (en)](./README.md)
 
+## Elements de corps
+
+- Sourire
+
 ## Elements, guides, valeurs
 
 (Simple, Cognitif)

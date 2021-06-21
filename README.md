@@ -205,18 +205,23 @@ Attention -> Body -> Need -> Vision of the world and thoughts
 
 ## Emotion
 
+(invitation to change one's vision of the world)
+
 - Fear/Hope - Emotion to go back, stop or prepare
   - Know the dangers around me and prepare to face them
   - Know the opportunities around me and prepare to face them
-- Anger - Émotion to push back an
-- Sadness - Émotion to change one's vision
-- Joice - Émotion of the satisfaction of needs
+- Anger - Emotion to push back an aggression, such as:
+  - My territory (body, vital space, belongings, territory) has been transgressed
+  - My principle and value système has been transgressed
+- Sadness - Emotion to give oneself a breather
+  - Emotion for patience, withdrawal, getting away, thinking, or to go toward meditation
+- Joice - Emotion of the satisfaction of needs
 
 Positive expression of emotions:
 
-- Gratefulness - "Thanks"
+- Gratefulness - Expression of pleasure toward participant(s) to the realization of a joyful event
 - Hope - Possibility of a happy future
-- Pride - Happy of what I say, do or own
+- Pride - Satisfaction of what I **say**, **do** or **own**
 - Love - Joice of exchanges
 
 ## Pony

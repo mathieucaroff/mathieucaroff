@@ -205,21 +205,23 @@ Attention -> Corps -> Vision du monde et pensées
 
 ## Émotion
 
+(invitation à changer sa vision du monde)
+
 - Peur/Espoir - Émotion pour reculer, ralentire, se préparer
   - Connaitre les dangers qui m'entoure et me préparer à y faire face
   - Connaitre les opportunités qui m'entoure et me préparer à y faire face
-- Colère - Émotion pour repousser une aggression
+- Colère - Émotion pour repousser une aggression telle que:
   - Mon territoire (corps, espace vitale, possession, territoire) a été transgressé
   - Mon système de principes et de valeurs a été transgressé
-- Tristesse - Émotion pour changer de vision
-  - de patience, de repli, d'éloigement, de réflection, de méditation
+- Tristesse - Émotion pour se donner une pause
+  - Émotion pour la patience, le repli, l'éloigement, la réflexion, pour aller vers la méditation
 - Joie - Émotion de la satifaction des besoins
 
 Expression positives des émotions:
 
-- Gratitude - "Merci", expression de la joie vers des personnes ayant participé à la réalisation de l'évènement
-- Espoir - Possibilité future heureux
-- Fierté - Satisfaction de ce que je dis, fais ou possède
+- Gratitude - "Merci", pour la participation à la 
+- Espoir - Possibilité d'un future heureux
+- Fierté - Satisfaction de ce que je **dis**, **fais** ou **possède**
 - Amour - Joie des échanges
 
 ## Poney

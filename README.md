@@ -15,7 +15,6 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 Patiente values:
 
 - Transparency
-- Kink4 (JBRG)
 - Freedom, self-determination
 - Quality
 - Center
@@ -92,7 +91,6 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 - Impressiveness
 - Money and Belongings
 - Moral Impressiveness
-- Character
 - Status
 
 ## Toki Pona

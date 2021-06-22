@@ -9,7 +9,11 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Laugh
 - Sneeze
 - Stretch
+
+## Relationship to the body
+
 - Fasting (up to 42 hours)
+- Breath holding
 - Other abstinence
 
 ## Elements, guides, values

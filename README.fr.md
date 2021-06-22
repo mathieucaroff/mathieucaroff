@@ -4,10 +4,10 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 ## Elements de corps
 
+- Rire
 - Sourire
-
-- Abstinence d'activité sexuelle (et "nofap")
 - Jeune (jusqu'à 40 heures)
+- Autre abstinence
 
 ## Elements, guides, valeurs
 

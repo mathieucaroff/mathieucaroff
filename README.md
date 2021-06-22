@@ -5,9 +5,9 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 ## Body elements
 
 - Smile
-
-- Abstinence of sexual activity (and "nofap")
+- Laugh
 - Fasting (up to 42 hours)
+- Other abstinence
 
 ## Elements, guides, values
 

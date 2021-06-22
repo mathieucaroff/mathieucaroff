@@ -13,7 +13,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 ## Rapport au corps
 
 - Jeune (jusqu'à 40 heures)
-- Retenir sa respiration
+- Retenir sa respiration / Apnée
 - Autre abstinence
 
 ## Elements, guides, valeurs

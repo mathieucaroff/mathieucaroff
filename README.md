@@ -4,8 +4,10 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 ## Body elements
 
+- Yawn
 - Smile
 - Laugh
+- Stretch
 - Fasting (up to 42 hours)
 - Other abstinence
 

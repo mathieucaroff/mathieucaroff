@@ -6,6 +6,8 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 - Rire
 - Sourire
+- S'étirer
+- Baillement
 - Jeune (jusqu'à 40 heures)
 - Autre abstinence
 

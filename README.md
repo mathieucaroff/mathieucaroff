@@ -7,6 +7,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 - Yawn
 - Smile
 - Laugh
+- Sneeze
 - Stretch
 - Fasting (up to 42 hours)
 - Other abstinence

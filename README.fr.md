@@ -101,7 +101,7 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 Mathieu
 
 - Mathematique
-- Athlétique
+- Ambivalent
 - Transidentité
 - Humanisme
 - Ingénierie

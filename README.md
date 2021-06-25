@@ -96,6 +96,25 @@ Read [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 * (G) Growth
 * (T) Contribution
 
+## Name
+
+Mathieu
+
+- Mathematic
+- Athlete
+- Transistor
+- Humanism
+- Informatic
+- Engineering
+- Universalism
+
+## Relation
+
+- Relationship
+- Power
+- Interaction
+- Interference
+
 ## Power
 
 - Body, Physical Power
@@ -200,6 +219,10 @@ Detailed activity of the body
 - Nose
 - Mouth entring/exiting air/liquid/solid
 - Singing and dancing
+
+## Going for it
+
+"Throw oneself"
 
 ## Letting-go
 

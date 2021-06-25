@@ -96,6 +96,25 @@ Lire [Mark Manson's Guide to Strong Relationship Boundaries](https://markmanson.
 - (G) Grandir / Évoluer
 - (T) Contribuer
 
+## Name
+
+Mathieu
+
+- Mathematique
+- Athlétique
+- Transidentité
+- Humanisme
+- Ingénierie
+- Elon
+- Universalisme
+
+## Relation
+
+- Humain
+- Rapport
+- Intéraction
+- Interférence
+
 ## Pouvoir
 
 - Corps, Pouvoir physique
@@ -200,6 +219,10 @@ Activités détaillées du corps
 - Nez
 - Bouches entrante/sortante air/liquide/solide
 - Chant et danse
+
+## Se lancer
+
+"Y aller"
 
 ## Accepter de changer (Lacher-prise)
 

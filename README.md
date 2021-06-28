@@ -31,6 +31,7 @@ Patiente values:
 
 - Life
 - Body
+- Model
 - Health
 - Center, Fitness
 - Clarity

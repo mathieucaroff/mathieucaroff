@@ -32,6 +32,7 @@ Valeurs patientes:
 - Vie
 - Corps
 - Santé
+- Modèle
 - Forme, Centre
 - Clarté
 - Liberté

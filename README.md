@@ -116,9 +116,10 @@ Mathieu
 
 - Relationship
 - Power
+- Collision
+- Reputation
 - Interaction
 - Interference
-- Collision
 
 ## Power
 

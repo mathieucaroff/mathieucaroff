@@ -116,9 +116,10 @@ Mathieu
 
 - Humain
 - Rapport
+- Collision
+- Réputation
 - Intéraction
 - Interférence
-- Collision
 
 ## Pouvoir
 

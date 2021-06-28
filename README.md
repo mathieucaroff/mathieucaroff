@@ -29,17 +29,19 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 
 Patiente values:
 
-- Transparency
-- Freedom, self-determination
+- Life
+- Body
+- Health
+- Center, Fitness
+- Clarity
+- Freedom
 - Quality
-- Center
-- Consciousness
-- Awareness of the body
 - Exchange
-- Health, Fitness, Life, Body
 - Softness
 - Patience
-- Clarity
+- Transparency, Consciousness
+- Self-determination
+- Awareness of the body
 - Scale, Intensity, Strength
 
 Shuffled values:

@@ -29,17 +29,19 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 Valeurs patientes:
 
-- Transparence
-- Liberté, autodétermination
+- Vie
+- Corps
+- Santé
+- Forme, Centre
+- Clarté
+- Liberté
 - Qualité
-- Centre
-- Conscience
-- Conscience du corps
 - Échange
-- Santé, Forme, Vie, Corps
 - Douceur
 - Patience
-- Clarté
+- Conscience, Transparence
+- Autodétermination
+- Conscience du corps
 - Grandeur, Intensité, Force
 
 Valeurs mélangées:

@@ -115,6 +115,7 @@ Mathieu
 ## Relation
 
 - Humain
+- Chemin
 - Rapport
 - Collision
 - Réputation

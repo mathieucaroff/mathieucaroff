@@ -115,6 +115,7 @@ Mathieu
 ## Relation
 
 - Relationship
+- Path
 - Power
 - Collision
 - Reputation

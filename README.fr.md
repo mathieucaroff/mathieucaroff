@@ -114,6 +114,7 @@ Mathieu
 - Rapport
 - Intéraction
 - Interférence
+- Collision
 
 ## Pouvoir
 

@@ -5,6 +5,7 @@ Ceci est la version anglaise. La version française est ici: [Mathieu CAROFF (fr
 ## Body elements
 
 - Yawn
+- Blink
 - Smile
 - Laugh
 - Sneeze

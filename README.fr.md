@@ -5,6 +5,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 ## Elements de corps
 
 - Rire
+- Cligner
 - Sourire
 - S'étirer
 - Éternuer

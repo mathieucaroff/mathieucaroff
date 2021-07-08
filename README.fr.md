@@ -125,8 +125,8 @@ Mathieu
 
 ## Pouvoir
 
-- Corps, Pouvoir physique
 - Amitié, Famille, Pouvoir du réseau
+- Corps, Pouvoir physique
 - Connaissance, Pouvoir de la connaissance
 - Charisme, Pouvoir interpersonnel
 - Expertise, Pouvoir technique, expert

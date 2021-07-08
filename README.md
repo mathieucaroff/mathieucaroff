@@ -125,8 +125,8 @@ Mathieu
 
 ## Power
 
-- Body, Physical Power
 - Friendship, Family, Network Power
+- Body, Physical Power
 - Knowledge, Knowledge Power
 - Charisma, Interpersonal Power
 - Expertise, Technical/Expert Power

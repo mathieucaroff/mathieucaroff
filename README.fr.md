@@ -109,7 +109,7 @@ Mathieu
 - Transidentité
 - Humanisme
 - Ingénierie
-- Elon
+- Elon p2
 - Universalisme
 
 ## Relation

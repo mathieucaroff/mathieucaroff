@@ -23,7 +23,7 @@ This is the french version. English version here: [Mathieu CAROFF (en)](./README
 
 <3:
 
-- Humanisme
+- Humanisme, Animalisme
 - Positivité
 - Simplicité
 

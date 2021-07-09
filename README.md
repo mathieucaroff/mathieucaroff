@@ -125,15 +125,15 @@ Mathieu
 
 ## Power
 
+- Expertise, Technical/Expert Power
+- Knowledge, Knowledge Power
+- Moral Impressiveness, Moral Power
 - Friendship, Family, Network Power
 - Body, Physical Power
-- Knowledge, Knowledge Power
-- Charisma, Interpersonal Power
-- Expertise, Technical/Expert Power
-- Impressiveness, Image Power
 - Money and Belongings, Resource Power
-- Moral Impressiveness, Moral Power
+- Impressiveness, Image Power
 - Status, Formal Power
+- Charisma, Interpersonal Power
 
 ## Toki Pona
 

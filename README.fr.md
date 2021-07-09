@@ -125,15 +125,15 @@ Mathieu
 
 ## Pouvoir
 
+- Expertise, Pouvoir technique, expert
+- Connaissance, Pouvoir de la connaissance
+- Impressivité Morale, Pouvoir morale
 - Amitié, Famille, Pouvoir du réseau
 - Corps, Pouvoir physique
-- Connaissance, Pouvoir de la connaissance
-- Charisme, Pouvoir interpersonnel
-- Expertise, Pouvoir technique, expert
-- Impressivité, Pouvoir d'image
 - Monnaie and Possessions, Pouvoir des ressources
-- Impressivité Morale, Pouvoir morale
+- Impressivité, Pouvoir d'image
 - Status, Pouvoir formel
+- Charisme, Pouvoir interpersonnel
 
 ## Toki Pona
 
